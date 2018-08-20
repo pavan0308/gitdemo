@@ -1,14 +1,11 @@
-Amit's text
 
-newfile created to pratice git
-Hello world
-Addition for 23Sep from github UI
-hi
-text coming in from remote
-
-New piece of code for 30Apr Batch
 
 Pavan's text
 Python sample program
 print("Hello World")
+
+Java Program
+
+system.out.println("Hello Java");
+
 
