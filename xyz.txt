@@ -8,3 +8,8 @@ system.out.println("Hello Java")
 system.out.println("WELCOME TO JAVA WORLD")
 
 
+Python program
+
+print("Hello Python")
+
+
