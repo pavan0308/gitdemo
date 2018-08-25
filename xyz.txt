@@ -5,10 +5,6 @@ Maven
 Java Program
 
 system.out.println("Hello Java")
-
-
-python prog
-
-print("Hello Python")
+system.out.println("WELCOME TO JAVA WORLD")
 
 
